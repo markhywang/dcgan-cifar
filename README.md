@@ -18,7 +18,7 @@ CIFAR Datasets: https://www.cs.toronto.edu/~kriz/cifar.html \
 DCGAN Original Paper: https://arxiv.org/abs/1511.06434
 
 ![alt text](https://github.com/markhywang/dcgan-cifar/blob/master/assets/generated-images.png) \
-*Early training log that shows Generator learning spatial patterns through the Discriminator*
+*Early training log that shows the DCGAN Generator learning spatial patterns*
 \
 \
 ![alt text](https://github.com/markhywang/dcgan-cifar/blob/master/assets/real-images.png) \
