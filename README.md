@@ -16,3 +16,6 @@ In this repository, DCGANs will be used to generate images contained in the CIFA
 
 CIFAR Datasets: https://www.cs.toronto.edu/~kriz/cifar.html \
 DCGAN Original Paper: https://arxiv.org/abs/1511.06434
+
+![alt text](https://github.com/markhywang/dcgan-cifar/blob/master/assets/generated-images.png)
+![alt text](https://github.com/markhywang/dcgan-cifar/blob/master/assets/real-images.png)
