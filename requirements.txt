@@ -1,0 +1,9 @@
+tensorboard
+jupyterlab
+notebook
+torch
+torchvision
+pandas
+numpy
+matplotlib
+scikit-learn
